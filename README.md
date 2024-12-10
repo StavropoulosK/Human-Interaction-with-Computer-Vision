@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is developed as part of the "Human-Computer Interaction" course and focuses on integrating computer vision into interactive applications. Specifically, it implements the classic game of Rock-Paper-Scissors using computer vision.
+This project is developed for the course of "Human-Computer Interaction" and focuses on integrating computer vision into interactive applications. Specifically, it implements the classic game of Rock-Paper-Scissors using computer vision.
 
 ## Summary
 
