@@ -27,3 +27,5 @@ To run this project, ensure you have the following:
 Install the required libraries using pip:
 
 pip install mediapipe==0.10.13 cvzone
+
+Also, you need to have the folder Resources within the same folder as app.py
