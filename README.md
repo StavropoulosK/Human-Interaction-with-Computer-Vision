@@ -23,6 +23,7 @@ To run this project, ensure you have the following:
 2. **Required Libraries**:
    - `mediapipe==0.10.13`
    - `cvzone`
+3. **Project Structure:** Ensure the folder Resources is located in the same directory as app.py.
 
 Install the required libraries using pip:
 
