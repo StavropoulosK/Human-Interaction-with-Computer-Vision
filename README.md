@@ -6,7 +6,7 @@ This project is developed for the course of "Human-Computer Interaction" for the
 
 ## Summary
 
-The project enables users to play Rock-Paper-Scissors by leveraging computer vision to recognize hand gestures captured via a camera. The process is as follows:
+The project enables users to play Rock-Paper-Scissor by leveraging computer vision to recognize hand gestures captured via a camera. The process is as follows:
 
 - The user performs a hand gesture (rock, paper, or scissors) in front of the computer camera.
 - The program recognizes the gesture using computer vision techniques.
