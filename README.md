@@ -13,7 +13,7 @@ The project enables users to play Rock-Paper-Scissors by leveraging computer vis
 - The computer then selects a move arbitrarily.
 - The program displays the computer’s move and determines the outcome (win, lose, or draw).
 
-This implementation is based on the demonstration provided in the following YouTube video: [Rock-Paper-Scissors with Computer Vision](https://www.youtube.com/watch?v=k2EahPgl0ho).
+This implementation is based on the demonstration provided in the following YouTube video: [Rock-Paper-Scissors using Computer Vision](https://www.youtube.com/watch?v=k2EahPgl0ho).
 
 ## Installation Instructions
 
