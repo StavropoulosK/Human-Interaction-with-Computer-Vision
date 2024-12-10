@@ -1,13 +1,29 @@
-# Human-Interaction-with-Computer-Vision
+# Human Interaction with Computer Vision
 
-## Human interaction with computer vision
+## Overview
 
-This is a project for the course "Human-Computer Interaction".
+This project is developed as part of the "Human-Computer Interaction" course and focuses on integrating computer vision into interactive applications. Specifically, it implements the classic game of Rock-Paper-Scissors using computer vision.
 
-### Summary
+## Summary
 
-This project is the implementation of the game rock-paper-scissors with computer vision. The user makes a gesture on his camera, the gesture is recognised by the program and the computer choses a move arbitrarily. The user then sees the move the computer chose and whether he wins or not. It is an implementation of this youtube video https://www.youtube.com/watch?v=k2EahPgl0ho
+The project enables users to play Rock-Paper-Scissors by leveraging computer vision to recognize hand gestures captured via a camera. The process is as follows:
 
-### Installation instructions
+- The user performs a hand gesture (rock, paper, or scissors) in front of the computer camera.
+- The program recognizes the gesture using computer vision techniques.
+- The computer then selects a move arbitrarily.
+- The program displays the computer’s move and determines the outcome (win, lose, or draw).
 
-It is required to have a python 64 version of 3.9 or higher. Also the libraries mediapipe==0.10.13 and cvzone.
+This implementation is based on the demonstration provided in the following YouTube video: [Rock-Paper-Scissors with Computer Vision](https://www.youtube.com/watch?v=k2EahPgl0ho).
+
+## Installation Instructions
+
+To run this project, ensure you have the following:
+
+1. **Python Version**: A 64-bit version of Python 3.9 or higher.
+2. **Required Libraries**:
+   - `mediapipe==0.10.13`
+   - `cvzone`
+
+Install the required libraries using pip:
+
+pip install mediapipe==0.10.13 cvzone
